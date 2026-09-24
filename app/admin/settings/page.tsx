@@ -9,10 +9,10 @@ export default function AdminSettingsPage() {
     companyName: 'ANAND FINANCIAL SERVICE',
     tagline: 'Your Trusted Guide to Smarter Loan Solutions',
     supportingLine: 'Understand Your Loan. Know Your Options. Make an Informed Decision.',
-    phone: '+91 98765 43210',
-    whatsapp: '+91 98765 43210',
-    email: 'contact@anandfinancialservice.com',
-    address: 'Plot No. 45, Finance Tower, Main Commercial Complex, City Center, PIN - 400001',
+    phone: '+91 70672 01926',
+    whatsapp: '+91 70672 01926',
+    email: '.com',deepakherohirawa@gmail.com
+    address: 'Plot No. 45, Finance Tower, Main Commercial Complex, City Indore, PIN - 452006',
     businessHours: 'Monday – Saturday: 9:30 AM – 6:30 PM (Closed on Sundays & Public Holidays)',
     disclaimer: '',
     bankDisclosure: ''
